@@ -1,0 +1,10 @@
+{
+  "name": "maitruong/kt2_php",
+  "description": "KT2 PHP Authentication project",
+  "type": "project",
+  "require": {
+    "pragmarx/google2fa": "^9.0",
+    "endroid/qr-code": "^6.0",
+    "phpmailer/phpmailer": "^7.0"
+  }
+}
